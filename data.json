@@ -1,0 +1,50 @@
+[
+    {
+        "id": "67566c80b4fea",
+        "nama": "The Originote Brightening Moisturizer",
+        "harga": "53800",
+        "stok": "10"
+    },
+    {
+        "id": "67566dfd12636",
+        "nama": "Somethinc 3% Astaxanthin + Chlorelina serum",
+        "harga": "115000",
+        "stok": "5"
+    },
+    {
+        "id": "6756d69d74031",
+        "nama": "Scarlett Whitening Acne Serum",
+        "harga": "63750",
+        "stok": "15"
+    },
+    {
+        "id": "6756d6caf2bd2",
+        "nama": "Anua Peach 70 Niacin Serum",
+        "harga": "290000",
+        "stok": "3"
+    },
+    {
+        "id": "6756d6eecc566",
+        "nama": "Glad2Glow Cherry Blossom Betaine Micellar Water",
+        "harga": "65000",
+        "stok": "26"
+    },
+    {
+        "id": "6756d710a735d",
+        "nama": "Azarine Hydrashoothe Sunscreen Gel Spf45+++",
+        "harga": "65000",
+        "stok": "21"
+    },
+    {
+        "id": "6756d72b2c796",
+        "nama": "Cosrx Advanced Snail Mucin Gel Cleanser",
+        "harga": "232000",
+        "stok": "1"
+    },
+    {
+        "id": "6756d74d70cf7",
+        "nama": "Derma Angel Acne Care Intensive Gel",
+        "harga": "85000",
+        "stok": "6"
+    }
+]
